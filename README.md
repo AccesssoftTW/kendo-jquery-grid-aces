@@ -1,1 +1,1 @@
-# kendo-jquery-grid-aces
+# 提供給宏致電子使用
